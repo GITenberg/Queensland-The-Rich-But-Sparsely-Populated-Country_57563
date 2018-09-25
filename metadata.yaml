@@ -1,12 +1,17 @@
 _repo: Queensland-The-Rich-But-Sparsely-Populated-Country_57563
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Terse information about Queensland
+covers:
+- cover_type: archival
+  image_path: 57563-h/images/cover.jpg
 creator:
   author:
     agent_name: Queensland Government Intelligence and Tourist Bureau
     gutenberg_agent_id: '49458'
     url: http://www.gutenberg.org/2009/agents/49458
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57563#Queensland-The-Rich-But-Sparsely-Populated-Country
 edition_note: Sixth edition
 gutenberg_issued: '2018-07-21'
 gutenberg_type: Text
